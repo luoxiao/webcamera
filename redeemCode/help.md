@@ -22,6 +22,7 @@
 ![](https://raw.githubusercontent.com/luoxiao/webcamera/master/redeemCode/IMG_0303.png)
 
 --
+<br>
 可能您会遇到问题：
 <br>1.兑换成功了，点击“恢复内购”，弹出禁止购买 或者 无反应？
 <br>答: 这大概率是苹果设备没有开启内购权限，导致无法恢复，请先确保设备打开了内购权限。[参考：如何打开内购权限](https://jingyan.baidu.com/article/3f16e0031e82522591c1033d.html)
